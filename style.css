@@ -13,10 +13,12 @@ body {
 }
 
 h1 {
-    font-size: 28px;
+    font-size: 40px;
+    font-weight: regular;
 }
 h2 {
-    font-size: 12px;
+    font-size: 24px;
+    font-weight: regular;
 }
 
 .ribbon {
@@ -48,6 +50,7 @@ h2 {
     display: flex;
     margin-left: auto;
     padding-right: 30px;
+    font-size: 40px;
     gap: 0.5rem;
 }
 
