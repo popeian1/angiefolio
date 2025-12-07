@@ -27,6 +27,8 @@ h2 {
 
 #top-ribbon {
     height: 150px;
+    align-items: center;
+    display: flex;
 }
 
 #bottom-ribbon {
