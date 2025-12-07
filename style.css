@@ -24,12 +24,12 @@
     height: 65px;
 }
 
-h1 {
-    font-size: 40px;
-}
-
 #top-nav, h1 {
     font-size: 100px;
+}
+
+h1 {
+    font-size: 40px;
 }
 
 #bottom-nav, h2 {
