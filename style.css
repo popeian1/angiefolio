@@ -26,14 +26,11 @@ h2 {
 }
 
 #top-links {
-    margin: 100%;
+    justify-content: right;
 }
 
 #top-ribbon {
     height: 150px;
-    align-items: center;
-    display: flex;
-    flex-direction: row;
 }
 
 #bottom-ribbon {
