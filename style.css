@@ -6,6 +6,13 @@
     text-decoration: none;
 }
 
+h1 {
+    font-size: 28px;
+}
+h2 {
+    font-size: 12px;
+}
+
 .name {
     
 }
@@ -24,14 +31,10 @@
     height: 65px;
 }
 
-#top-nav, h1 {
+#top-nav {
     font-size: 100px;
 }
 
-h1 {
-    font-size: 40px;
-}
-
-#bottom-nav, h2 {
+#bottom-nav {
     font-size: 24px !important;
 }
