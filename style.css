@@ -26,8 +26,7 @@ h2 {
 }
 
 #top-links {
-    display: flex;
-    justify-content: right;
+    float: right;
 }
 
 #top-ribbon {
