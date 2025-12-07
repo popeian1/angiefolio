@@ -44,7 +44,7 @@ h2 {
 
 #top-nav {
     font-size: 100px;
-    justify-content: end;
+    text-align: right;
 }
 
 #bottom-nav {
