@@ -19,8 +19,6 @@ h2 {
 .ribbon {
     background-color: #1c1c1c !important;
     font-family: arial, sans-serif;
-    display: flex;
-    float: right;
     z-index: 1;
 }
 
