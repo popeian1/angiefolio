@@ -19,6 +19,7 @@ h2 {
 
 .ribbon {
     font-family: arial, sans-serif;
+    display:flex;
     float: right;
     z-index: 1;
 }
