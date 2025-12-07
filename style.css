@@ -26,7 +26,7 @@ h2 {
 }
 
 #top-links {
-    justify-content: right;
+    float: right;
 }
 
 #top-ribbon {
