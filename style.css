@@ -23,6 +23,7 @@ h2 {
 
 h3 {
     font-size: 24px;
+    justify-content: center;
     font-family: 'Courier New', Courier, monospace;
 }
 
@@ -75,13 +76,8 @@ p, pre {
     margin: auto;
 }
 
-#homepage-para {
-    display: flex;
-    flex-direction: column;
-}
-
 #profile {
     border-radius: 50%;
-    width: 550px;
-    height: 550px;
+    width: 400px;
+    height: 400px;
 }
