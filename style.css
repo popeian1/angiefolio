@@ -11,6 +11,7 @@
 
 .ribbon {
     background-color: #1c1c1c;
+    font: arial, sans-serif;
 }
 
 #top-ribbon {
@@ -19,4 +20,12 @@
 
 #bottom-ribbon {
     height: 65px;
+}
+
+#top-nav, h1 {
+    font-size: 40px;
+}
+
+#bottom-nav, h2 {
+    font-size: 24px;
 }
