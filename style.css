@@ -16,13 +16,17 @@ h2 {
     font-size: 12px;
 }
 
-.name {
-
-}
-
 .ribbon {
     background-color: #1c1c1c !important;
     font-family: arial, sans-serif;
+}
+
+#name {
+
+}
+
+#top-links {
+    justify-content: right;;
 }
 
 #top-ribbon {
