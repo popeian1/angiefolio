@@ -29,6 +29,7 @@ h2 {
     height: 150px;
     align-items: center;
     display: flex;
+    flex-direction: row;
 }
 
 #bottom-ribbon {
