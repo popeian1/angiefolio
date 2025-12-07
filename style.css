@@ -25,11 +25,12 @@ h2 {
 }
 
 #name {
+    padding-left: 30px;
 }
 
 #top-ribbon {
     height: 150px;
-    padding-left: 30px;
+    align-items: center;
 }
 
 #bottom-ribbon {
