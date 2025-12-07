@@ -39,6 +39,16 @@ h3 {
     flex-direction: row;
 }
 
+.proj-img {
+    height: 200px;
+    width: auto;
+}
+
+.proj-para {
+    font-size: 16px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
 #name {
     padding-left: 30px;
 }
@@ -91,11 +101,6 @@ h3 {
     border-radius: 50%;
     width: 400px;
     height: 400px;
-}
-
-#proj-img {
-    height: 200px;
-    width: auto;
 }
 
 #projects {
