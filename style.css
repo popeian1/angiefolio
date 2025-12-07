@@ -33,6 +33,7 @@ h2 {
 
 #bottom-ribbon {
     height: 65px;
+    width: 100%;
     position: absolute;
     bottom: 0;
 }
