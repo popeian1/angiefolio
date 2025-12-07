@@ -28,7 +28,6 @@ h2 {
 #top-ribbon {
     height: 150px;
     align-items: center;
-    justify-content: right;
     display: flex;
     flex-direction: row;
 }
@@ -45,7 +44,7 @@ h2 {
 
 #top-nav {
     font-size: 100px;
-    text-align: right;
+    justify-content: right;
 }
 
 #bottom-nav {
