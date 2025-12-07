@@ -22,7 +22,6 @@ h2 {
 }
 
 #name {
-    align-items: center;
 }
 
 #top-links {
@@ -30,7 +29,6 @@ h2 {
 
 #top-ribbon {
     height: 150px;
-    display: flex;
 }
 
 #bottom-ribbon {
