@@ -33,7 +33,8 @@ h2 {
 
 #bottom-ribbon {
     height: 65px;
-
+    position: absolute;
+    bottom: 0;
 }
 
 #top-nav {
