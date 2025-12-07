@@ -46,7 +46,7 @@ h2 {
 
 #top-nav {
     display: flex;
-    justify-content: right;
+    margin-left: auto;
 }
 
 #bottom-nav {
