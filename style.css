@@ -6,14 +6,11 @@
 }
 
 .name {
-    display: flex;
-    flex-direction: column;
-    background-color: #1c1c1c;
+    
 }
 
 .ribbon {
-    display: flex;
-    flex-direction: row;
+    background-color: #1c1c1c;
 }
 
 #top-ribbon {
