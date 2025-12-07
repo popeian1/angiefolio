@@ -1,6 +1,8 @@
 * {
     background-color: #282828;
     color: #FFFFFF;
+    margin: 0;
+    padding: 0;
     text-decoration: none;
 }
 
@@ -12,21 +14,22 @@ h2 {
 }
 
 .name {
-    
+    background-color: #1c1c1c;
 }
 
 .ribbon {
-    background-color: #1c1c1c !important;
     font-family: arial, sans-serif;
     z-index: 1;
 }
 
 #top-ribbon {
     height: 150px;
+    background-color: #1c1c1c;
 }
 
 #bottom-ribbon {
     height: 65px;
+    background-color: #1c1c1c;
 }
 
 #top-nav {
