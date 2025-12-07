@@ -22,7 +22,7 @@ h2 {
 }
 
 #name {
-
+    justify-content: right;
 }
 
 #top-links {
