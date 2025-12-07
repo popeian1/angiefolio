@@ -25,7 +25,9 @@ h2 {
     font-family: arial, sans-serif;
     z-index: 1;
     display: flex;
-    flex-direction: row;;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
 }
 
 #top-ribbon {
