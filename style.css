@@ -25,9 +25,9 @@
 }
 
 #top-nav, h1 {
-    font-size: 40px;
+    font-size: 40px !important;
 }
 
 #bottom-nav, h2 {
-    font-size: 24px;
+    font-size: 24px !important;
 }
