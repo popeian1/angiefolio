@@ -1,5 +1,4 @@
 * {
-    background-color: #282828;
     color: #FFFFFF;
     margin: 0;
     padding: 0;
@@ -19,7 +18,7 @@ h2 {
 
 .ribbon {
     font-family: arial, sans-serif;
-    display:flex;
+    display: flex;
     float: right;
     z-index: 1;
 }
