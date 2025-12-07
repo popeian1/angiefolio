@@ -21,6 +21,16 @@ h2 {
     font-weight: normal;
 }
 
+h3 {
+    font-size: 24px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p, pre {
+    font-size: 16px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
 .ribbon {
     background-color: #1c1c1c !important;
     font-family: arial, sans-serif;
@@ -57,4 +67,18 @@ h2 {
 #bottom-nav {
     font-size: 16px;
     gap: 0.5rem;
+}
+
+#homepage {
+    display: flex;
+    flex-direction: row;
+}
+
+#homepage-para {
+    display: flex;
+    flex-direction: column;
+}
+
+#profile {
+    border-radius: 50%;
 }
