@@ -82,6 +82,10 @@ ul li {
     justify-content: center;
 }
 
+.list {
+    padding: 50px;
+}
+
 #name {
     padding-left: 30px;
 }
