@@ -63,7 +63,7 @@ ul {
 }
 
 .proj-img {
-    max-width: 250px;
+    max-height: 150px;
     object-fit: cover;
     display: block;
     margin: auto;
