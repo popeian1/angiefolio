@@ -195,7 +195,8 @@ ul {
     padding: 75px 200px 0 200px;
 }
 
-@media (min-width: 600px) {
+@media (max-width: 600px) {
+
     .ribbon {
         width: 100%;
     }
