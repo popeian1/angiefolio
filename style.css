@@ -175,12 +175,11 @@ ul {
 }
 
 #skills-page {
-    padding-top: 50px;
     display: flex;
     flex-direction: row;
     align-items: center;
     justify-content: center;
-    padding: 50px;
+    padding: 100px;
 }
 
 #proj-body {
@@ -192,13 +191,12 @@ ul {
 }
 
 #exp-page {
-    padding-top: 50px;
     display: flex;
     flex-direction: row;
     align-items: center;
     justify-content: center;
     gap: 100px;
-    padding: 75px 200px 0 200px;
+    padding: 75px 250px 0 200px;
 }
 
 @media (max-width: 600px) {
