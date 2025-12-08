@@ -41,8 +41,6 @@ h3 {
 
 .proj-img {
     height: 175px;
-    width: auto;
-    object-fit: cover;
     background-color: #1c1c1c;
 }
 
