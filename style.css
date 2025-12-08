@@ -184,5 +184,5 @@ ul li {
     align-items: center;
     justify-content: center;
     gap: 100px;
-    padding: 0 150px 0 150px;
+    padding: auto 150px auto 150px;
 }
