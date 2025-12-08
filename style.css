@@ -194,3 +194,14 @@ ul {
     gap: 100px;
     padding: 75px 200px 0 200px;
 }
+
+@media (min-width: 600px) {
+    .ribbon {
+        width: 100%;
+    }
+
+    h1 {
+        font-size: 12px;
+    }
+
+}
