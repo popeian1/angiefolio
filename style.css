@@ -149,3 +149,7 @@ ul li {
     align-items: center;
     justify-content: center;
 }
+
+#exp-body {
+    max-height: 50%;
+}
