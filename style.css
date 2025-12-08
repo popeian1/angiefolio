@@ -42,6 +42,7 @@ h3 {
 .proj-img {
     height: 200px;
     width: auto;
+    object-fit: cover;
 }
 
 .proj-para {
