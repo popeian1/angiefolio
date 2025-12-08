@@ -90,6 +90,7 @@ ul li {
 
 .exp-heading {
     font-size: 20px;
+    width: 90%;
     margin-bottom: 15px;
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
@@ -97,7 +98,7 @@ ul li {
 
 .exp-img {
     max-width: 100px;
-    float:right;
+    float: right;
 }
 
 #name {
