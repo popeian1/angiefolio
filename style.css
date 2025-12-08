@@ -117,7 +117,7 @@ ul {
     height: 100px;
     display: flex;
     align-items: center;
-    position: fixed;
+    position: absolute;
     top: 0;
 }
 
@@ -213,6 +213,14 @@ ul {
 
     #name {
         padding-left: 15px;
+    }
+
+    #top-ribbon {
+        height: 100px;
+        display: flex;
+        align-items: center;
+        position: fixed;
+        top: 0;
     }
 
     #top-nav {
