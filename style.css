@@ -88,6 +88,18 @@ ul li {
     padding: 50px;
 }
 
+.exp-heading {
+    font-size: 20px;
+    margin-bottom: 15px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.exp-img {
+    max-width: 100px;
+    float:right;
+}
+
 #name {
     padding-left: 30px;
 }
@@ -163,4 +175,12 @@ ul li {
 
 #skills-body {
     max-height: 750px;
+}
+
+#exp-page {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 50px;
 }
