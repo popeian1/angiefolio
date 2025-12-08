@@ -75,7 +75,7 @@ ul li {
     width: 50%;
 }
 
-.exp-column {
+.skills-column {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -143,7 +143,7 @@ ul li {
     justify-content: center;
 }
 
-#exp-page {
+#skills-page {
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -154,6 +154,6 @@ ul li {
     max-height: 750px;
 }
 
-#exp-body {
+#skills-body {
     max-height: 750px;
 }
