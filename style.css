@@ -43,6 +43,10 @@ ul li {
     font-family: 'Courier New', Courier, monospace;
 }
 
+ul {
+    margin-bottom: 15px;
+}
+
 .ribbon {
     background-color: #1c1c1c !important;
     font-family: arial, sans-serif;
