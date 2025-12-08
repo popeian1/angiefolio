@@ -74,6 +74,11 @@ ul li {
     width: 50%;
 }
 
+.exp-column {
+    display: flex;
+    flex-direction: column;
+}
+
 #name {
     padding-left: 30px;
 }
@@ -129,6 +134,11 @@ ul li {
 }
 
 #projects {
+    display: flex;
+    flex-direction: row;
+}
+
+#exp-page {
     display: flex;
     flex-direction: row;
 }
