@@ -98,7 +98,9 @@ ul li {
 
 .exp-img {
     max-width: 100px;
-    float: right;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 #name {
