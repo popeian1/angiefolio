@@ -220,7 +220,7 @@ ul {
     }
 
     #bottom-nav {
-        font-size: 6px;
+        font-size: 12px !important;
     }
 
     #profile {
