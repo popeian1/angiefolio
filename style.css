@@ -44,6 +44,9 @@ h3 {
     width: auto;
     object-fit: cover;
     background-color: #1c1c1c;
+}
+
+.border-rad {
     border-radius: 15%;
 }
 
