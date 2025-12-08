@@ -43,6 +43,7 @@ h3 {
     height: 175px;
     width: auto;
     object-fit: cover;
+    background-color: #1c1c1c;
 }
 
 .proj-para {
@@ -50,7 +51,7 @@ h3 {
     text-align: center;
     margin: auto 0 auto 0;
     font-family: 'Courier New', Courier, monospace;
-    width: 30%;
+    width: 50%;
 }
 
 #name {
