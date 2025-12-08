@@ -203,6 +203,11 @@ ul {
 
     h1 {
         font-size: 18px;
+        padding-left: 15px;
     }
 
+    .top-nav {
+        font-size: 18px;
+        padding-right: 15px;
+    }
 }
