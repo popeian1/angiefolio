@@ -250,8 +250,12 @@ ul {
         align-items: center;
         justify-content: center;
         padding-top: 30px;
-}
-   
+    }
+
+    .project {
+        padding: 150px 50px 50px 50px;
+    }
+
     .proj-para {
         font-size: 12px;
         margin: auto;
