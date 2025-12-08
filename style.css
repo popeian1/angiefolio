@@ -40,7 +40,7 @@ h3 {
     align-items: center;
     justify-content: center;
     gap: 25px;
-    min-height: 500px;
+    height: auto;
 }
 
 .proj-img {
