@@ -44,6 +44,7 @@ h3 {
     width: auto;
     object-fit: cover;
     background-color: #1c1c1c;
+    flex: 1;
 }
 
 .border-rad {
@@ -56,6 +57,7 @@ h3 {
     margin: auto 0 auto 0;
     font-family: 'Courier New', Courier, monospace;
     width: 50%;
+    flex: 1;
 }
 
 #name {
