@@ -144,10 +144,8 @@ ul li {
 }
 
 #skills-page {
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: center;
+    margin: auto;
+    padding: auto;
 }
 
 #proj-body {
