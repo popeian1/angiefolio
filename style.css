@@ -209,7 +209,7 @@ ul {
         font-size: 12px;
     }
 
-    .name {
+    #name {
         padding-left: 15px;
     }
 
@@ -217,4 +217,9 @@ ul {
         font-size: 14px;
         padding-right: 15px;
     }
+
+    #bottom-nav {
+        font-size: 12px;
+    }
+
 }
