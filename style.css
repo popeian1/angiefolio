@@ -266,7 +266,7 @@ ul {
         align-items: center;
         justify-content: center;
         gap: 50px;
-        padding: 150px;
+        padding-top: 150px;
     }
 
     #exp-heading {
