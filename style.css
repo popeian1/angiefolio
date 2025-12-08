@@ -235,4 +235,10 @@ ul {
         gap: 20px;
     }
 
+    #homepage-para {
+        font-size: 20px;
+        text-align: center;
+        width: 80%;
+        font-family: 'Courier New', Courier, monospace;
+    }
 }
