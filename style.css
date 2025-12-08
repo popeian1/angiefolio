@@ -249,5 +249,13 @@ ul {
         align-items: center;
         justify-content: center;
 }
+   
+    .proj-para {
+        font-size: 16px;
+        margin: auto;
+        text-align: center;
+        font-family: 'Courier New', Courier, monospace;
+        idth: 80%;
+    }
 
 }
