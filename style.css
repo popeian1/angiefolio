@@ -29,6 +29,16 @@ h3 {
     font-family: 'Courier New', Courier, monospace;
 }
 
+ul {
+    font-size: 16px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+ul.dashed > li:before {
+        content: "-";
+        text-indent: -15px;
+      }
+
 .ribbon {
     background-color: #1c1c1c !important;
     font-family: arial, sans-serif;
