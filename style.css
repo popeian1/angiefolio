@@ -40,7 +40,7 @@ h3 {
 }
 
 .proj-img {
-    height: 175px;
+    max-height: 175px;
     width: 100%;
     background-color: #1c1c1c;
 }
