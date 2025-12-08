@@ -44,6 +44,7 @@ h3 {
     width: auto;
     object-fit: cover;
     background-color: #1c1c1c;
+    border-radius: 15%;
 }
 
 .proj-para {
