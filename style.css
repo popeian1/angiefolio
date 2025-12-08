@@ -167,6 +167,7 @@ ul {
 }
 
 #projects {
+    padding-top: 50px;
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -174,6 +175,7 @@ ul {
 }
 
 #skills-page {
+    padding-top: 50px;
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -190,6 +192,7 @@ ul {
 }
 
 #exp-page {
+    padding-top: 50px;
     display: flex;
     flex-direction: row;
     align-items: center;
