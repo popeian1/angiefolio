@@ -222,4 +222,9 @@ ul {
         font-size: 12px;
     }
 
+    #profile {
+        width: 100px;
+        height: 100px;
+    }
+
 }
